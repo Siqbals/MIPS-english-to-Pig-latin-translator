@@ -1,9 +1,3 @@
-#Saadman Iqbal
-#doj513
-#11319791
-#Dr. Eager
-#CMPT215
-
 .data
 	prmpt1:.asciiz "enter input string to convert to pig latin: "
 	inp: .space 256
